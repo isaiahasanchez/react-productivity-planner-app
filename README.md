@@ -22,7 +22,7 @@ Contributions
 Contributions to the Productivity Planner app are welcome. Feel free to create pull requests for bug fixes, new features, or improvements. Before making any contributions, please open an issue to discuss the proposed changes.
 
 Live Demo
-A live demo of the app can be accessed at link-to-live-demo.
+A live demo of the app can be accessed at [link-to-live-demo.](https://simple-productivity-planner.netlify.app)
 React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
